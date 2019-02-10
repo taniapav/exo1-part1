@@ -1,0 +1,3 @@
+$(function (){
+$('#secondText').empty();
+});
